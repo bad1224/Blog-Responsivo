@@ -1,5 +1,5 @@
 
-### Blog Responsivo 📱💻   
+### Desafio Blog Responsivo 📱💻   
 
 link netlify : https://heartfelt-praline-f9cc2c.netlify.app/
 
