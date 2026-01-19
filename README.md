@@ -12,8 +12,8 @@ Este projeto consistiu no desafio de transformar um layout de blog em uma experi
 * **Experiência do Usuário (UX):** Proporcionar uma navegação satisfatória e funcional, independente do hardware utilizado.
 
 ### 🛠️ Tecnologias Utilizadas
-* **HTML5:** Estruturação semântica de conteúdo.
-* **CSS3:** Estilização avançada com Flexbox e Media Queries para responsividade.
+* **HTML:** Estruturação semântica de conteúdo.
+* **CSS:** Estilização avançada com Flexbox e Media Queries para responsividade.
 * **Figma:** Utilizado para referência de design, medidas e prototipagem.
 
 ### 💡 Implementações Técnicas
